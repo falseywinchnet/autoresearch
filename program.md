@@ -172,7 +172,7 @@ Looping until the event horizon(ie, forever):
 
 6. Extract results: `grep "^val_bpb:\|^peak_vram_mb:" run.log`
 
-7: Debug if the run is too long, it crashed, or the results are empty.
+7. Debug if the run is too long, it crashed, or the results are empty.
 
 8. Record results in the tsv. NEVER commit the results.tsv file - leave it untracked.
 
